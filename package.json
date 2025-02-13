@@ -117,7 +117,7 @@
     "jest-runner-prettier": "1.0.0",
     "jest-runner-remark": "2.0.6",
     "jsdom": "21.1.2",
-    "make-dir": "4.0.0",
+    "make-dir": "5.0.0",
     "ora": "8.2.0",
     "p-queue": "8.1.0",
     "prettier": "3.5.1",
